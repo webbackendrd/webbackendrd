@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @webbackendrd
+- 👀 I’m interested in web design
+- 🌱 I’m currently learning golang
